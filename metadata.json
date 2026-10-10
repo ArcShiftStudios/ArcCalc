@@ -1,0 +1,6 @@
+{
+  "name": "ArcCalc",
+  "description": "A premium Material 3 Expressive calculator with scientific mode, unit converter, custom theme studio, and rich haptics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
